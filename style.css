@@ -1,3 +1,17 @@
-.h1 {
+* {
+font-size: 30px;
+font-family: serif, 'Times New Roman', Georgia
+}
+
+.head {
     text-align: center;
+    font-size: 50px;
+    background-color: gray;
+    color: bisque;
+}
+
+.button {
+    background-color: gray;
+    border-color: bisque;
+    color: white;
 }
